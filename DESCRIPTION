@@ -40,7 +40,7 @@ Imports:
     methods,
     remotes,
     rsvd,
-    Seurat (>= 5.0.0),
+    Seurat,
     stats,
     utils,
     rlang
